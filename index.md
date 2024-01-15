@@ -1,3 +1,3 @@
 Hello,world!
 
-[lab1](lab1)
+[Lab1](Lab1.md)
